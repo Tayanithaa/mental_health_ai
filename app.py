@@ -9,7 +9,7 @@ import datetime as dt
 def main():
     init_db()  # Ensure DB exists
 
-    st.title("📝 AI Journal App")
+    st.title("📝Journalify...")
     st.write("Log your thoughts and let AI analyze your emotions!")
 
     # Journal Entry
